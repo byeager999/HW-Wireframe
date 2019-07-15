@@ -28,25 +28,26 @@ section {
 }
 
 #cutout {
-    color: white;
+    color: #ebebeb;
     background: #777;
-    height: 100px;
-    z-index: 1;
+    height: 150px;
     padding: 20px;
 }
 
 #insertone {
     color: #777;
     background: #ebebeb;
-    margin-bottom: 10px;
-    z-index: 2;
+    margin-bottom: 5px;
+    padding: 15px;
+    margin-top: 15px;
 }
 
 #inserttwo {
     color: #777;
     background: #ebebeb;
     margin-bottom: 10px;
-    z-index: 2;
+    padding: 15px;
+    margin-top: 15px;
 }
 
 aside {
